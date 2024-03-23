@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/poli-happy/static/css/main.f855e6bc.css",
-    "main.js": "/poli-happy/static/js/main.b962ca17.js",
+    "main.js": "/poli-happy/static/js/main.ff6fe178.js",
     "static/js/453.f42cbac4.chunk.js": "/poli-happy/static/js/453.f42cbac4.chunk.js",
     "index.html": "/poli-happy/index.html",
     "main.f855e6bc.css.map": "/poli-happy/static/css/main.f855e6bc.css.map",
-    "main.b962ca17.js.map": "/poli-happy/static/js/main.b962ca17.js.map",
+    "main.ff6fe178.js.map": "/poli-happy/static/js/main.ff6fe178.js.map",
     "453.f42cbac4.chunk.js.map": "/poli-happy/static/js/453.f42cbac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b962ca17.js"
+    "static/js/main.ff6fe178.js"
   ]
 }
